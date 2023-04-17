@@ -22,7 +22,7 @@ Antes de executar o programa, é necessário instalar as seguintes bibliotecas:
 
 * Para usar o programa, execute o arquivo "nome_do_arquivo.ipynb" em uma IDE Jupyter.
 * Ao executar, ele lerá uma lista de nomes e sobrenomes em formato de texto e os converterá em um arquivo CSV. Em seguida, o programa lê duas imagens: uma CNH e um RG. 
-* O OCR paddle é usado para extrair informações dessas imagens.
+* O OCR Paddle é usado para extrair informações dessas imagens.
 * Extrai as informações de texto como CPF, nome, data de nascimento, data de emissão, naturalidade e filiação das imagens. Em seguida, é usada a biblioteca PySpellChecker em português "pt" para corrigir possíveis erros ortográficos nas informações extraídas.
 
 * O programa imprime as informações extraídas e as correções ortográficas na saída do console.
