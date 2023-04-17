@@ -4,11 +4,11 @@ Algorítimo desenvolvido em Python através da IDE JupyterNotebook que utiliza o
 ## Instalação
 Antes de executar o programa, é necessário instalar as seguintes bibliotecas:
 
-### paddlepaddle==2.2.2  https://mirror.baidu.com/pypi/simple
-### paddleocr
-### symspellpy
-### pyspellchecker
-### opencv-python
+* paddlepaddle==2.2.2  https://mirror.baidu.com/pypi/simple
+* paddleocr
+* symspellpy
+* pyspellchecker
+* opencv-python
 
 - Você pode instalá-las usando o gerenciador de pacotes pip:
 
