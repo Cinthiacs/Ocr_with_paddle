@@ -12,11 +12,11 @@ Antes de executar o programa, é necessário instalar as seguintes bibliotecas:
 
 - Você pode instalá-las usando o gerenciador de pacotes pip:
 
-  !python -m pip install paddlepaddle==2.2.2 -i https://mirror.baidu.com/pypi/simple
-  !pip install paddleocr
-  !python -m pip install -U symspellpy
-  !pip install pyspellchecker
-  !pip install opencv-python
+*  !python -m pip install paddlepaddle==2.2.2 -i https://mirror.baidu.com/pypi/simple
+* !pip install paddleocr
+* !python -m pip install -U symspellpy
+* !pip install pyspellchecker
+* !pip install opencv-python
 
 ### Como usar
 
