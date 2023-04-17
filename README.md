@@ -30,5 +30,5 @@ Antes de executar o programa, é necessário instalar as seguintes bibliotecas:
 ## Contribuição
 Sinta-se livre para contribuir para este projeto enviando pull requests.
 
-Autora
+###Autora
 Cinthia Cavalheiro.
