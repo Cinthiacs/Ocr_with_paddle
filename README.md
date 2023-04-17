@@ -25,7 +25,7 @@ Antes de executar o programa, é necessário instalar as seguintes bibliotecas:
 git clone https://github.com/Cinthiacs/Ocr_with_paddle.git
 ```
 
-* Para usar o programa, execute o arquivo "nome_do_arquivo.ipynb" em uma IDE Jupyter.
+* Para usar o programa, execute o arquivo "Ocr_paddlepaddle.ipynb" em uma IDE Jupyter.
 * Ao executar, ele lerá uma lista de nomes e sobrenomes em formato de texto e os converterá em um arquivo CSV. Em seguida, o programa lê duas imagens: uma CNH e um RG. 
 * O OCR Paddle é usado para extrair informações dessas imagens.
 * Extrai as informações de texto como CPF, nome, data de nascimento, data de emissão, naturalidade e filiação das imagens. Em seguida, é usada a biblioteca PySpellChecker em português "pt" para corrigir possíveis erros ortográficos nas informações extraídas.
