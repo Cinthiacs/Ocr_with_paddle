@@ -10,7 +10,7 @@ Antes de executar o programa, é necessário instalar as seguintes bibliotecas:
 * pyspellchecker
 * opencv-python
 
-- Você pode instalá-las usando o gerenciador de pacotes pip:
+### Você pode instalá-las usando o gerenciador de pacotes pip:
 
 *  !python -m pip install paddlepaddle==2.2.2 -i https://mirror.baidu.com/pypi/simple
 * !pip install paddleocr
